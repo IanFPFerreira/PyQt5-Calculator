@@ -5,16 +5,21 @@ Fazendo uma calculadora utilizando PyQt5, uma interface gráfica para Python.
 No terminal, digite:
 
 ```
-pip install pipenv shell
+pip3 install PyQt5
 ```
-Para instalar o ambiente virtual do python.
+Para instalar a interface gráfica PyQt5.
 
 ```
-pipenv shell
+python3 main.py
 ```
-Para criar e entrar em um ambiente virtual.
+Execução no Linux
 
 ```
-pipenv install -r ./requirements.txt
+python main.py
 ```
-Para instalar todas as bibliotecas necessárias.
+Execução no Windows
+
+Ou utilize uma IDE para a execução do código.
+
+# Dica
+Utilize um ambiente virtual para fazer a instalação do PyQt5.
