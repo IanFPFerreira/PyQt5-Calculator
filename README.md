@@ -18,4 +18,3 @@ Para criar e entrar em um ambiente virtual.
 pipenv install -r ./requirements.txt
 ```
 Para instalar todas as bibliotecas necessárias.
-
