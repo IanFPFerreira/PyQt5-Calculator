@@ -31,6 +31,13 @@ Execução no Windows
 
 Ou utilize uma IDE para a execução do código.
 
+```
+deactivate
+```
+Para desativar o ambiente virtual.
+
+###Se utiliza o Windows, adicione o Python na PATH) **(utilizamos um ambiente virtual para que não instale nada que o usuário não goste em sua máquina.
+
 
 ## Caso não queira utilizar um ambiente virtual:
 No terminal, digite:
