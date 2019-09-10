@@ -36,7 +36,7 @@ deactivate
 ```
 Para desativar o ambiente virtual.
 
-###Se utiliza o Windows, adicione o Python na PATH) **(utilizamos um ambiente virtual para que não instale nada que o usuário não goste em sua máquina.
+(Utiliza-se um ambiente virtual para que não instale nada que o usuário não goste em sua máquina).
 
 
 ## Caso não queira utilizar um ambiente virtual:
