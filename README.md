@@ -2,59 +2,49 @@
 Fazendo uma calculadora utilizando PyQt5, uma interface gráfica para Python.
 
 ## Utilizando um ambiente virtual para executar o código:
-No terminal, digite:
 
+Tendo o Python, para instalar a pipenv shell, ambiente virtual do Python, no terminal, digite:
 ```
 pip install pipenv shell
 ```
-Para instalar a pipenv shell, ambiente virtual do Python.
-
+Para criar e entrar no ambiente virtual:
 ```
 pipenv shell
 ```
-Para criar e entrar no ambiente virtual.
-
+Para instalar no ambiente virtual as dependências do Pipfile.lock, usadas no código:
 ```
 pipenv sync
 ```
-Para instalar no ambiente virtual as dependências do Pipfile.lock, usadas no código.
-
+Execução no Linux:
 ```
 python3 main.py
 ```
-Execução no Linux
-
+Execução no Windows
 ```
 python main.py
 ```
-Execução no Windows
-
-Ou utilize uma IDE para a execução do código.
-
 ```
 deactivate
 ```
 Para desativar o ambiente virtual.
 
+Ou utilize uma IDE para a execução do código.
 (Utiliza-se um ambiente virtual para que não instale nada que o usuário não goste em sua máquina).
 
 
 ## Caso não queira utilizar um ambiente virtual:
-No terminal, digite:
 
+Para instalar na própria máquina a interface gráfica PyQt5.
+No terminal, digite:
 ```
 pip3 install PyQt5
 ```
-Para instalar na própria máquina a interface gráfica PyQt5.
-
+Execução no Linux
 ```
 python3 main.py
 ```
-Execução no Linux
-
+Execução no Windows
 ```
 python main.py
 ```
-Execução no Windows
-
 Ou utilize uma IDE para a execução do código.
