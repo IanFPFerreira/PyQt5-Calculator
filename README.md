@@ -23,10 +23,11 @@ Execução no Windows
 ```
 python main.py
 ```
+
+Para desativar o ambiente virtual.
 ```
 deactivate
 ```
-Para desativar o ambiente virtual.
 
 Ou utilize uma IDE para a execução do código.
 (Utiliza-se um ambiente virtual para que não instale nada que o usuário não goste em sua máquina).
