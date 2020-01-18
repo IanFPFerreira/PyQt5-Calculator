@@ -1,8 +1,6 @@
 # Calculadora-utilizando-PyQt5
 Fazendo uma calculadora utilizando PyQt5, uma interface gráfica para Python.
 
-[![Python](https://www.python.org/)
-
 ## Utilizando um ambiente virtual para executar o código:
 
 Tendo o Python, para instalar a pipenv shell, ambiente virtual do Python, no terminal, digite:
